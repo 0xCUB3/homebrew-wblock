@@ -2,8 +2,7 @@ cask "wblock" do
   version "3.0.0"
   sha256 "cf5a28db6039d994db5496b189e00896d94558c850ca24e4b207c0d4be9da9ac"
 
-  url "https://github.com/0xCUB3/wBlock/releases/download/#{version}/wBlock-#{version}.dmg",
-      verified: "github.com/0xCUB3/wBlock/"
+  url "https://github.com/0xCUB3/wBlock/releases/download/#{version}/wBlock-#{version}.dmg"
 
   name "wBlock"
   desc "Safari content blocker for macOS, iOS, and iPadOS"
