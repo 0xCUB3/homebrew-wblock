@@ -1,6 +1,6 @@
 cask "wblock" do
-  version "3.1.3"
-  sha256 "6861b3c0786551eaab09995f991f02ef28ac064c5a3106ca0bfe397c15b72f1f"
+  version "3.2.0"
+  sha256 "a29d167e5da733188796bc26a0aee1454ee113c814e19e8e4b9f12b6b749c85a"
 
   url "https://github.com/0xCUB3/wBlock/releases/download/#{version}/wBlock-#{version}.dmg"
 
