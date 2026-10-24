@@ -5,8 +5,8 @@ cask "wblock" do
   url "https://github.com/0xCUB3/wBlock/releases/download/#{version}/wBlock-#{version}.dmg"
 
   name "wBlock"
-  desc "Safari content blocker for macOS, iOS, and iPadOS"
-  homepage "https://github.com/0xCUB3/wBlock"
+  desc "Safari ad blocker with custom filters and userscripts"
+  homepage "https://skula.me/project/wblock/"
 
   livecheck do
     url :url
